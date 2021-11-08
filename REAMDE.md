@@ -15,6 +15,13 @@ As a user
 So that I can see a list of bookmarks
 I want to be able to see a rendered list of bookmarks on the webpage
 
+Client
+
+- Controller
+               Model
+
+                     Views
+
 As a <Stakeholder>,
 So that <Motivation>,
 I'd like <Task>.
