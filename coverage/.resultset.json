@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/bendowsett/Desktop/Projects/bookmark_manager/spec/features/testing_webpage_spec.rb": {
+      "/mnt/c/Users/mhbae/Desktop/Myoung-Dev/Makers/pairing/bookmark_manager/spec/features/view_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -12,6 +12,6 @@
         ]
       }
     },
-    "timestamp": 1636383964
+    "timestamp": 1636385270
   }
 }
