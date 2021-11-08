@@ -16,11 +16,13 @@ So that I can see a list of bookmarks
 I want to be able to see a rendered list of bookmarks on the webpage
 
 Client
-
+   Get request for Bookmark list
 - Controller
+      App.rb request to bookmark model, list of bookmarks
                Model
-
+                 Bookmark returns stored list of bookmarks to app.rb(controller)
                      Views
+                       list rendered in erb view - returned to client 
 
 As a <Stakeholder>,
 So that <Motivation>,
