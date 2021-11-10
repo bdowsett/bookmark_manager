@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/mnt/c/Users/mhbae/Desktop/Myoung-Dev/Makers/pairing/bookmark_manager/spec/bookmark_spec.rb": {
+      "/Users/bendowsett/Desktop/Projects/bookmark_manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
@@ -17,7 +17,7 @@
           null
         ]
       },
-      "/mnt/c/Users/mhbae/Desktop/Myoung-Dev/Makers/pairing/bookmark_manager/spec/features/view_bookmarks_spec.rb": {
+      "/Users/bendowsett/Desktop/Projects/bookmark_manager/spec/features/view_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -30,6 +30,6 @@
         ]
       }
     },
-    "timestamp": 1636387183
+    "timestamp": 1636546628
   }
 }
