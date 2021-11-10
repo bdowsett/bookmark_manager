@@ -21,6 +21,26 @@
           1,
           null,
           null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/bendowsett/Desktop/Projects/bookmark_manager/spec/features/add_bookmark_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -43,10 +63,12 @@
           1,
           1,
           null,
+          null,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1636557750
+    "timestamp": 1636563879
   }
 }
